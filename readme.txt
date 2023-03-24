@@ -1,4 +1,4 @@
-Hi guys, if you want to add the 42 header into your files on your personal machine,( the one that updated it's updated date everytime you usave it) you can add this code to your vimrc file
+Hi guys, if you want to add the 42 header into your files on your personal machine,(the one that updated it's updated date everytime you usave it) you can add this code to your vimrc file
 
 
 the file is located in 
