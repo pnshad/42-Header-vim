@@ -9,4 +9,7 @@ vim ~/.vimrc
 
 and add this code to the end of the file
 
+after adding the code to vimrc, you need to to change the '42username' to your current username
+
+let g:auth = '42username'
 
