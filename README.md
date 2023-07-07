@@ -96,10 +96,6 @@ Once you have added the script to your Vim configuration, you can use the follow
 
 The script will also automatically update the timestamp in the header whenever you save the file.
 
-## Customization
-
-If you want to customize the appearance of the 42 header, you can modify the code inside the `Stdheader` function. You can change the width, formatting, or add additional information to the header as per your requirements.
-
 ## Acknowledgements
 
 This script is inspired by the 42 school curriculum. Thanks to the 42 school for providing the opportunity to work on this project.
